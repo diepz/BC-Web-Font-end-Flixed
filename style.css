@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 98.666%;
+}
+.navbar {
+    width: 100%;
+    padding: 1.3em;
+    display: block;
+    background: #00FFFF;
+    margin: 0 auto;
+ position: fixed;
+}
+
+a {
+    text-decoration: none;
+    margin: 5px;
+}
+
+a:hover {
+    color: #DF4C20;
+}
+
+main {
+    font-size: 18px;
+    font-family: arial sans-serif;
+    font-weight: bold;
+    margin: 16px;
+    position: fixed;
+    text-align: center;
+
+}
+.sub-main {
+    text-align: center;
+    padding: 56px;
+}
+
+h1 {
+color :#FF7F50;
+}
+
+
+
+
+
